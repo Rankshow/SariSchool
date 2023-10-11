@@ -1,0 +1,14 @@
+C:\Users\Micheal\SariSchool\bin\Debug\net7.0\SariSchool.exe
+C:\Users\Micheal\SariSchool\bin\Debug\net7.0\SariSchool.deps.json
+C:\Users\Micheal\SariSchool\bin\Debug\net7.0\SariSchool.runtimeconfig.json
+C:\Users\Micheal\SariSchool\bin\Debug\net7.0\SariSchool.dll
+C:\Users\Micheal\SariSchool\bin\Debug\net7.0\SariSchool.pdb
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.AssemblyInfoInputs.cache
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.AssemblyInfo.cs
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.dll
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\refint\SariSchool.dll
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.pdb
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\SariSchool.genruntimeconfig.cache
+C:\Users\Micheal\SariSchool\obj\Debug\net7.0\ref\SariSchool.dll
