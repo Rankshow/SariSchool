@@ -1,0 +1,4 @@
+C:\Users\Micheal\SariSchool\BankDepartment\obj\Debug\net7.0\BankDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\SariSchool\BankDepartment\obj\Debug\net7.0\BankDepartment.AssemblyInfoInputs.cache
+C:\Users\Micheal\SariSchool\BankDepartment\obj\Debug\net7.0\BankDepartment.AssemblyInfo.cs
+C:\Users\Micheal\SariSchool\BankDepartment\obj\Debug\net7.0\BankDepartment.csproj.CoreCompileInputs.cache
