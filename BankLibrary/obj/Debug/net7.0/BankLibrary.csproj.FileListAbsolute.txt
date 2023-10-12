@@ -1,0 +1,14 @@
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.AssemblyInfo.cs
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\SariSchool\BankLibrary\bin\Debug\net7.0\BankLibrary.exe
+C:\Users\Micheal\SariSchool\BankLibrary\bin\Debug\net7.0\BankLibrary.deps.json
+C:\Users\Micheal\SariSchool\BankLibrary\bin\Debug\net7.0\BankLibrary.runtimeconfig.json
+C:\Users\Micheal\SariSchool\BankLibrary\bin\Debug\net7.0\BankLibrary.dll
+C:\Users\Micheal\SariSchool\BankLibrary\bin\Debug\net7.0\BankLibrary.pdb
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.dll
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\refint\BankLibrary.dll
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.pdb
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\BankLibrary.genruntimeconfig.cache
+C:\Users\Micheal\SariSchool\BankLibrary\obj\Debug\net7.0\ref\BankLibrary.dll
